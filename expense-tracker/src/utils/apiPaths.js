@@ -1,4 +1,4 @@
-export const BASE_URL = "https://transaction-management-4pxm.onrender.com";
+export const BASE_URL = "https://transaction-management-4pxm.onrender.com/api/v1";
 
 // utils/apiPaths.js
 export const API_PATHS = {

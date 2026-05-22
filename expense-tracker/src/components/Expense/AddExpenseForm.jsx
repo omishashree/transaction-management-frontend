@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import Input from "../Inputs/Input";
+import Input from "../Inputs/temp";
 
 import EmojiPickerPopup from "../EmojiPickerPopup";
 

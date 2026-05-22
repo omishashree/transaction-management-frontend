@@ -1,5 +1,5 @@
 export const BASE_URL =
-  "https://transaction-management-4pxm.onrender.com/api/v1";
+  import.meta.env.VITE_BASE_URL;
 
 // utils/apiPaths.js
 export const API_PATHS = {
